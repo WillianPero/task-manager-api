@@ -1,5 +1,13 @@
 # Task Manager API
 
+## 🚀 API Endpoints
+
+This API provides full CRUD operations for task management.
+
+### Swagger UI
+
+![Task Manager API Swagger](docs/swagger.png)
+
 REST API for task management built with Java and Spring Boot.
 
 This project demonstrates backend development skills including RESTful APIs, layered architecture, and database integration.
